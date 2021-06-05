@@ -9,6 +9,24 @@
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/josemballes99/monoblack.git"
+    },
+    "icon": "images/monoblack.png",
+    "bugs": {
+        "url": "https://github.com/josemballes99/monoblack/issues"
+    },
+    "homepage": "https://github.com/josemballes99/monoblack/blob/master/README.md",
+    "keywords": [
+        "vscode",
+        "theme",
+        "black",
+        "monokai",
+        "dark",
+        "contrast",
+        "markdown"
+    ],
     "contributes": {
         "themes": [
             {

@@ -3,12 +3,9 @@
 **monoBlack** is a dark themed editor for VS Code. Features a black backgound and Monokai inspired highlighing for the perfect amount of contrast. 
 
 ## Screenshots
-### TypeScript/JavaScript
-
-### Python
-
-### MarkDown
-
+![Screenshot 01](images/screenshots/typescript.png "TypeScript")
+![Screenshot 02](images/screenshots/python.png "Python")
+![Screenshot 02](images/screenshots/markdown.png "MarkDown")
 ## Recomended Fonts
 
 - [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono) 
