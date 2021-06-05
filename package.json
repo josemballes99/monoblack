@@ -3,6 +3,7 @@
     "displayName": "monoBlack",
     "description": "Black based monokai theme, for the perfect amount of contrast",
     "version": "0.0.1",
+    "publisher": "jmbe",
     "engines": {
         "vscode": "^1.56.0"
     },
