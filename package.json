@@ -2,8 +2,11 @@
     "name": "monoblack",
     "displayName": "monoBlack",
     "description": "Black based monokai theme, for the perfect amount of contrast",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "jmbe",
+    "author": {
+        "name": "Jose M. Ballesteros"
+      },
     "engines": {
         "vscode": "^1.56.0"
     },

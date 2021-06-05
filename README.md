@@ -1,5 +1,7 @@
 # monoBlack
 
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/jmbe.monoBlack) ![GitHub](https://img.shields.io/github/license/josemballes99/monoBlack)
+
 **monoBlack** is a dark themed editor for VS Code. Features a black backgound and Monokai inspired highlighing for the perfect amount of contrast. 
 
 ## Screenshots
